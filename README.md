@@ -24,7 +24,7 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 * **Hito más importante de la semana**: Analizar e aplicar biblioteca cuxfilter, algoritmo ML seleccionado y editar manual de Rapids.
 * **Actividades logradas**: Implementar la biblioteca cuxfilter, editar manual Rapids.
 
-## Planificación semana 15: 27 al 31 de julio 2020
+## Planificación semana 16: 27 al 31 de julio 2020
 ![Planificación semana 15](https://github.com/Practicum42-MP-20201/actividad6-JoseGuarnizo/blob/master/PlanificacionSemana16.PNG)
 
 * **Hito más importante de la semana**: Analizar métricas, implementar más cuxfilter, reunión con tutor, seleccionar algoritmo ML final.
